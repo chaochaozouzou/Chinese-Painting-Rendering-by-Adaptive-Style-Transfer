@@ -6,7 +6,13 @@ Chinese painting is distinct from other art in that the painting elements are ex
 
 Results
  
+![image](https://github.com/chaochaozouzou/Chinese-Painting-Rendering-by-Adaptive-Style-Transfer/blob/master/images/readme_md_img/result_01.jpg)
  
+![image](https://github.com/chaochaozouzou/Chinese-Painting-Rendering-by-Adaptive-Style-Transfer/blob/master/images/readme_md_img/result_02.jpg)
+  
+![image](https://github.com/chaochaozouzou/Chinese-Painting-Rendering-by-Adaptive-Style-Transfer/blob/master/images/readme_md_img/result_03.jpg)
+   
+![image](https://github.com/chaochaozouzou/Chinese-Painting-Rendering-by-Adaptive-Style-Transfer/blob/master/images/readme_md_img/result_04.jpg)
  
  
 
